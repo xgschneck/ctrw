@@ -1,0 +1,24 @@
+[D1]	https://stackoverflow.com/questions/48645381/instability-in-mittag-leffler-function-using-numpy
+[D2]	https://github.com/khinsen/mittag-leffler,
+	https://se.mathworks.com/matlabcentral/fileexchange/48154-the-mittag-leffler-function
+	Garrappa, R.,
+	Numerical Evaluation of Two and Three Parameter Mittag-Leffler Functions,
+	SIAM Journal on Numerical Analysis,
+	Society for Industrial & Applied Mathematics (SIAM), 2015 , 53 , 1350-1369
+[D3]	Gorenflo, R., Loutchko, J. & Luchko, Y.,
+	Computation of the Mittag-Leffler function and its derivatives,
+	Fractional Calculus & Applied Analysis (FCAA), 2002 , 5
+[D4]	https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.levy_stable.html
+[D5]	http://www.logarithmic.net/pfh/pylevy
+	https://github.com/josemiotto/pylevy
+	https://pylevy.readthedocs.io/en/latest/index.html
+[D6]	Fulger, D.; Scalas, E. & Germano, G.,
+	Monte Carlo simulation of uncoupled continuous-time random walks yielding
+	a stochastic solution of the space-time fractional diffusion equation,
+	Physical Review E, American Physical Society (APS), 2008 , 77
+[D7]	Kozubowski, T. & Podgorski, K.,
+	Laplace probability distributions and related stochastic processes,
+	Probability: Interpretation, Theory and Applications, 2011 , 105-145
+[D8]	Nolan, J. P.,
+	Multivariate elliptically contoured stable distributions: theory and estimation,
+	Computational Statistics, Springer Nature, 2013 , 28 , 2067-2089

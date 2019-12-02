@@ -1,0 +1,6 @@
+[submodule "ext_levy"]
+	path = ext_levy
+	url = https://github.com/josemiotto/pylevy.git
+[submodule "ext_mittagleffler"]
+	path = ext_mittagleffler
+	url = https://github.com/khinsen/mittag-leffler.git
